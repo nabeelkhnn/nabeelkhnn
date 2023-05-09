@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @nabeelkhnn
 - 👀 I’m interested in Python, R and SQL
 - 🔭 I’m looking for internships in Data Science and Engineering fields
-- 📫 How to reach me nabeel.khn10@gmail.com
+- 📫 How to reach me nfnu3@uic.edu
 
 <!--
 **nabeelkhnn/nabeelkhnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
