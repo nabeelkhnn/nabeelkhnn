@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m @nabeelkhnn
 - 👀 I’m interested in Python, R, and SQL
-- 🔭 I’m looking for Full-Time employment in Data Science and ML fields
 - 📫 How to reach me nfnu3@uic.edu
 
 <!--
